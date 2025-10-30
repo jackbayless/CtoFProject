@@ -13,3 +13,32 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Build stuff
+/build/
+/**/build/
+/out/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
+
+# IDE files
+.idea/
+*.iml
+
+# Android/keystore & secrets (never commit signing keys)
+*.jks
+*.keystore
+**/local.properties
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Logs & misc
+*.log
+.DS_Store
+Thumbs.db
+
