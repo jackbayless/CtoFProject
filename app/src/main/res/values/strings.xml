@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cToFConverter</string>
+    <string name="celsius_to_fahrenheit_converter">Celsius to Fahrenheit Converter</string>
+    <string name="enter_a_value_to_convert">Enter a value to Convert</string>
+    <string name="celsius_value">Celsius Value</string>
+    <string name="convert">Convert</string>
+    <string name="degrees_fahrenheit">%1$.2f°f</string>
+</resources>
