@@ -49,7 +49,7 @@
         android:id="@+id/celsius_convert_button"
         android:layout_width="150dp"
         android:layout_height="75dp"
-        android:onClick="cToFConversion"
+        android:onClick="displayConvertedValue"
         android:text="@string/convert"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
